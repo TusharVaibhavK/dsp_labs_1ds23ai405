@@ -1,4 +1,4 @@
-# Digital Security & Privacy (DSP) Lab Programs
+# Data Security & Privacy (DSP) Lab Programs
 **Student ID:** 1DS23AI405
 
 A comprehensive collection of security-focused Python applications covering malware simulation, vulnerability analysis, phishing detection, cryptography, and data privacy techniques.
