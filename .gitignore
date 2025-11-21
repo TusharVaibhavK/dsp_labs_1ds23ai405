@@ -1,0 +1,7 @@
+venv
+*.pyc
+.DS_Store
+.idea/
+phishing_model.pkl
+
+__pycache__/
